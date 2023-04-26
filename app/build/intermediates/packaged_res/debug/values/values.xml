@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="Blue">#0675FD</color>
+    <color name="black">#FF000000</color>
+    <color name="pinkColor">#BB06FD</color>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#000000</color>
+    <color name="tansparentcolor">#00FEFFFF</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="whitegrey">#E7EBEB</color>
+    <string name="app_name">Real Art</string>
+    <string name="default_web_client_id" translatable="false">235648335175-b47nu45fahq3d5uucjpp14u1cbchghvi.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">235648335175</string>
+    <string name="google_api_key" translatable="false">AIzaSyAkKXRmsDEZ_eskbQj4etcjbzueVmW-lc4</string>
+    <string name="google_app_id" translatable="false">1:235648335175:android:90f2d4e8bb4d574b7b2062</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAkKXRmsDEZ_eskbQj4etcjbzueVmW-lc4</string>
+    <string name="google_storage_bucket" translatable="false">project-r-e9f48.appspot.com</string>
+    <string name="project_id" translatable="false">project-r-e9f48</string>
+    <style name="Button4">
+        <item name="cornerSize">20%</item>
+    </style>
+    <style name="Button5">
+        <item name="cornerSize">50%</item>
+
+    </style>
+    <style name="Theme.Real" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        
+        <item name="colorPrimary">@color/purple_500</item>
+        <item name="colorPrimaryVariant">@color/purple_700</item>
+        <item name="colorOnPrimary">@color/white</item>
+        
+        <item name="colorSecondary">@color/teal_200</item>
+        <item name="colorSecondaryVariant">@color/teal_700</item>
+        <item name="colorOnSecondary">@color/black</item>
+        
+        <item name="android:statusBarColor">?attr/colorPrimaryVariant</item>
+        
+    </style>
+</resources>

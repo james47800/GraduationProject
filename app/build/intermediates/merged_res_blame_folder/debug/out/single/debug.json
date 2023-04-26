@@ -1,0 +1,214 @@
+[
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\mipmap-xxhdpi_icon.png.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\mipmap-xxhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\layout_activity_login.xml.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\layout\\activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\xml_backup_rules.xml.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\xml\\backup_rules.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\mipmap-mdpi_icon_foreground.png.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\mipmap-mdpi\\icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\mipmap-hdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\layout_activity_get_started.xml.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\layout\\activity_get_started.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\mipmap-xxhdpi_icon_foreground.png.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\mipmap-xxhdpi\\icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\mipmap-xhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\drawable_purple.jpg.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\drawable\\purple.jpg"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\mipmap-xhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\mipmap-xxhdpi_icon_round.png.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\mipmap-xxhdpi\\icon_round.png"
+    },
+    {
+        "merged": "com.mwangi.real.app-merged_res-34:/layout_activity_discover.xml.flat",
+        "source": "com.mwangi.real.app-main-36:/layout/activity_discover.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\drawable_peakpx.jpg.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\drawable\\peakpx.jpg"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\xml_data_extraction_rules.xml.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\xml\\data_extraction_rules.xml"
+    },
+    {
+        "merged": "com.mwangi.real.app-merged_res-34:/layout_activity_account.xml.flat",
+        "source": "com.mwangi.real.app-main-36:/layout/activity_account.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\mipmap-anydpi-v26_icon.xml.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\mipmap-anydpi-v26\\icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\mipmap-xxxhdpi_icon.png.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\mipmap-xxxhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\layout_activity_home.xml.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\drawable_switch_tumbs.xml.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\drawable\\switch_tumbs.xml"
+    },
+    {
+        "merged": "com.mwangi.real.app-merged_res-34:/layout_activity_home.xml.flat",
+        "source": "com.mwangi.real.app-main-36:/layout/activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\mipmap-xxxhdpi_icon_foreground.png.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\mipmap-xxxhdpi\\icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\mipmap-hdpi_icon.png.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\mipmap-hdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\mipmap-mdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\layout_activity_splash.xml.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "com.mwangi.real.app-merged_res-34:/layout_activity_upload.xml.flat",
+        "source": "com.mwangi.real.app-main-36:/layout/activity_upload.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\drawable_icon_background.xml.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\drawable\\icon_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\drawable_globe.jpg.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\drawable\\globe.jpg"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\mipmap-mdpi_icon.png.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\mipmap-mdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\mipmap-hdpi_icon_foreground.png.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\mipmap-hdpi\\icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\drawable_flare.jpg.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\drawable\\flare.jpg"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\layout_activity_register.xml.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\layout\\activity_register.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\drawable_ic_launcher_background.xml.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\mipmap-hdpi_icon_round.png.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\mipmap-hdpi\\icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\mipmap-xhdpi_icon_foreground.png.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\mipmap-xhdpi\\icon_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\mipmap-mdpi_icon_round.png.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\mipmap-mdpi\\icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\drawable_lake.jpg.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\drawable\\lake.jpg"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\mipmap-xxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\mipmap-hdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\mipmap-xxxhdpi\\ic_launcher.webp"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\mipmap-xxxhdpi_icon_round.png.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\mipmap-xxxhdpi\\icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\mipmap-xhdpi_icon_round.png.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\mipmap-xhdpi\\icon_round.png"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\mipmap-anydpi-v26_icon_round.xml.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\mipmap-anydpi-v26\\icon_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\drawable_icon.jpg.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\drawable\\icon.jpg"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\drawable_switch_tricks.xml.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\drawable\\switch_tricks.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\mipmap-xhdpi_icon.png.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\mipmap-xhdpi\\icon.png"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\mipmap-mdpi\\ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.mwangi.real.app-merged_res-34:/layout_activity_login.xml.flat",
+        "source": "com.mwangi.real.app-main-36:/layout/activity_login.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\mipmap-anydpi-v33_ic_launcher.xml.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\mipmap-anydpi-v33\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-merged_res-34:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\James\\.gradle\\daemon\\7.5\\com.mwangi.real.app-main-36:\\mipmap-anydpi-v26\\ic_launcher.xml"
+    }
+]
